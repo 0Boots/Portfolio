@@ -15,5 +15,22 @@ I enjoy spending time outdoors, 🎵 listening to music, swimming 🏊‍♂️,
 
 _____________________________________________________________________________________________________________________________________________________________
 
+Projects:
 
+https://rookcookco.github.io/RookCook/      🧑‍🍳
+
+    - RookCook is an innovative web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) that personalizes recipe suggestions    
+      based on the ingredients and kitchen tools users have available. The platform leverages Firebase for user authentication, enabling seamless login and 
+      profile management. It features an interactive kitchen environment, built with HTML, CSS, and JavaScript, along with Docker containers to ensure      
+      scalable and efficient deployment. RookCook includes an advanced ingredient management system to streamline searches, supported by a robust search and 
+      filter function. Users can rate recipes, participate in discussion forums, and manage personalized profiles. Additionally, RookCook provides
+      nutritional information to inform cooking choices, fostering a community-driven, efficient, and enjoyable cooking experience.
+
+    
+https://0boots.github.io/Vdayinvite/        🌹
+
+    - A lighthearted and interactive Valentine's Day-themed web project I created to spread some fun and joy. The site features a playful invitation asking     users, "Will you be my Valentine?" with two buttons to choose from: Yes or No.
+    If the user clicks No, the site cheekily responds by adding more "Yes" buttons, encouraging persistence.
+    If the user clicks Yes, they’re greeted with a cute and whimsical GIF on a new page.
+    The project showcases my ability to create simple, engaging, and user-friendly web interactions with a humorous twist. It also highlights my proficiency     in HTML, CSS, and basic JavaScript to create interactive elements.
 
