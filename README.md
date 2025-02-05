@@ -12,3 +12,8 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 I enjoy spending time outdoors, 🎵 listening to music, swimming 🏊‍♂️, snowboarding 🏂.
 
 📫 Reach out to me at: Rickywang770@gmail.com
+
+_____________________________________________________________________________________________________________________________________________________________
+
+
+
